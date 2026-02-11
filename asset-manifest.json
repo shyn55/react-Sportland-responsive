@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-Sportland-responsive/static/css/main.a06638c2.css",
+    "main.js": "/react-Sportland-responsive/static/js/main.e11552d3.js",
+    "static/media/Annotation 2026-02-04 180242.png": "/react-Sportland-responsive/static/media/Annotation 2026-02-04 180242.513ea2278cc20d23bba9.png",
+    "static/media/photo_2025-10-17_12-26-50.png": "/react-Sportland-responsive/static/media/photo_2025-10-17_12-26-50.4590f101e5e92ee4c369.png",
+    "static/media/Poppins-Regular.ttf": "/react-Sportland-responsive/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/post-1.jpg": "/react-Sportland-responsive/static/media/post-1.25913435c5fbc36e5aca.jpg",
+    "static/media/post-2.jpg": "/react-Sportland-responsive/static/media/post-2.a148d0988a3b605915c3.jpg",
+    "static/media/post-3.jpg": "/react-Sportland-responsive/static/media/post-3.6a0c63d650d55aa77e19.jpg",
+    "index.html": "/react-Sportland-responsive/index.html",
+    "main.a06638c2.css.map": "/react-Sportland-responsive/static/css/main.a06638c2.css.map",
+    "main.e11552d3.js.map": "/react-Sportland-responsive/static/js/main.e11552d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06638c2.css",
+    "static/js/main.e11552d3.js"
+  ]
+}
