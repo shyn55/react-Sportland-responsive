@@ -1,0 +1,35 @@
+header{
+    height: 100vh;
+    background-color: #646464;
+    background-image: url('../img/Annotation\ 2026-02-04\ 180242.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: multiply;
+    color: #fff;
+    text-align: center;
+}
+.navbar-container{
+    padding: 20px 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.9);
+} 
+.logo{
+    margin: 0px 30px;
+}
+.navbar .nav-link{
+    text-decoration: none;
+    padding: 20px 15px;
+    color: #fff;
+}
+.hero-title{
+    font-size:4.5rem;
+    padding-top: 350px;
+}
+.hero-desc{
+    padding-top: 15px;
+}
